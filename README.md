@@ -1,7 +1,7 @@
 # Cómo ejecutar
-Ejecutar desde la raíz del repositorio:
+Ejecutar desde el archivo "taller.html" del repositorio:
 ```bash
-$ npx live-server
+$ npx live server
 ```
 # Créditos
 - Melissa Nessi
