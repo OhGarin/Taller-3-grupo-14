@@ -1,2 +1,9 @@
-# Taller-3-grupo-14
-Taller 3 Program web grupo 14
+# Cómo ejecutar
+Ejecutar desde la raíz del repositorio:
+```bash
+$ npx live-server
+```
+# Créditos
+- Melissa Nessi
+- Daniela Cruz
+- Moisés Suárez
